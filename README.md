@@ -1,6 +1,5 @@
 # PRISTINEHEAT
 Clothes,Shoes,EVERYTHING
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">

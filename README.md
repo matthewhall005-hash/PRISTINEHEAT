@@ -65,7 +65,7 @@
 <body>
   <header>
     <h1>@pristineheatfr on IG</h1>
-    <p>Curated Collections & Brands DM to order</p>
+    <p>Curated Collections & Brands, DM to order</p>
   </header>
 
   <!-- Generic Section -->

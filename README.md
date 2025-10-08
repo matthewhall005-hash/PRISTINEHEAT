@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>@pristine.heat on IG</title>
+  <title>@pristineheatfr on IG</title>
   <style>
     body {
       font-family: Arial, sans-serif;

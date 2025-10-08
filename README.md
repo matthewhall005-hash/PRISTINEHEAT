@@ -64,7 +64,7 @@
 </head>
 <body>
   <header>
-    <h1>Pristine Heat</h1>
+    <h1>@pristineheatfr on IG</h1>
     <p>Curated Collections & Brands</p>
   </header>
 

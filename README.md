@@ -65,7 +65,7 @@
 <body>
   <header>
     <h1>@pristineheatfr on IG</h1>
-    <p>Curated Collections & Brands, DM to order</p>
+    <p>Curated Collections & Brands, DM to order, Or text (801)440-6414</p>
   </header>
 
   <!-- Generic Section -->
